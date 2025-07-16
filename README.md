@@ -13,6 +13,9 @@ This repository (`comp9444_project_group_chill_guys`) contains Python code and d
 
 ## 📂 Project Directory Structure
 
+<img width="503" height="909" alt="image" src="https://github.com/user-attachments/assets/eb98e88d-c677-44a9-8ffd-c94da6bfec71" />
+
+###![Below seems to be broken when not open in full view]
 comp9444_project_group_chill_guys/
 │
 ├── data/ ← [📁 Google Drive only — not included here]
